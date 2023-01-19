@@ -1,0 +1,11 @@
+C:\Users\student\Desktop\Решетников 23ИС-21\Reshetnikov23IS-21\Reshetnikov23IS-21\bin\Debug\Reshetnikov23IS-21.exe.config
+C:\Users\student\Desktop\Решетников 23ИС-21\Reshetnikov23IS-21\Reshetnikov23IS-21\bin\Debug\Reshetnikov23IS-21.exe
+C:\Users\student\Desktop\Решетников 23ИС-21\Reshetnikov23IS-21\Reshetnikov23IS-21\bin\Debug\Reshetnikov23IS-21.pdb
+C:\Users\student\Desktop\Решетников 23ИС-21\Reshetnikov23IS-21\Reshetnikov23IS-21\obj\Debug\Reshetnikov23IS-21.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Решетников 23ИС-21\Reshetnikov23IS-21\Reshetnikov23IS-21\obj\Debug\Reshetnikov23IS-21.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Решетников 23ИС-21\Reshetnikov23IS-21\Reshetnikov23IS-21\obj\Debug\Reshetnikov23IS_21.Form1.resources
+C:\Users\student\Desktop\Решетников 23ИС-21\Reshetnikov23IS-21\Reshetnikov23IS-21\obj\Debug\Reshetnikov23IS_21.Properties.Resources.resources
+C:\Users\student\Desktop\Решетников 23ИС-21\Reshetnikov23IS-21\Reshetnikov23IS-21\obj\Debug\Reshetnikov23IS-21.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Решетников 23ИС-21\Reshetnikov23IS-21\Reshetnikov23IS-21\obj\Debug\Reshetnikov23IS-21.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Решетников 23ИС-21\Reshetnikov23IS-21\Reshetnikov23IS-21\obj\Debug\Reshetnikov23IS-21.exe
+C:\Users\student\Desktop\Решетников 23ИС-21\Reshetnikov23IS-21\Reshetnikov23IS-21\obj\Debug\Reshetnikov23IS-21.pdb
